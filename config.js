@@ -8,5 +8,5 @@ export const facebook = {
 export const google = {
   clientID: '212800111227-5alhcstm2hitugdm3t5qmv6iesk14fi4.apps.googleusercontent.com',
   clientSecret: '9pNmncupVQA26SA1ncpWPu3K',
-  callbackURL: 'https://my-bike.herokuapp.com/auth/google/callback',
+  callbackURL: 'com.googleusercontent.apps.212800111227-tppiu630f0opsad3k6m5s32e9ajos312',
 };
